@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SunSpot</string>
+    <string name="accedi">Accedi</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="o">o</string>
+    <string name="registrati">Registrati</string>
+    <string name="sunspot">SUNSPOT</string>
+</resources>
