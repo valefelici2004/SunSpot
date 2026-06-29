@@ -47,4 +47,13 @@
         <item name="colorSurfaceContainerHigh">@color/md_theme_surfaceContainerHigh</item>
         <item name="colorSurfaceContainerHighest">@color/md_theme_surfaceContainerHighest</item>
     </style>
+
+    <style name="MyHeadlineLarge" parent="@style/TextAppearance.Material3.HeadlineLarge">
+        <item name="fontFamily">@font/barriecito_regular</item>
+        <item name="android:fontFamily">@font/barriecito_regular</item>
+    </style>
+
+    <style name="TextAppearance.MyApp.Body" parent="@style/TextAppearance.Material3.BodyLarge">
+        <item name="fontFamily">@font/abeezee_regular</item>
+    </style>
 </resources>

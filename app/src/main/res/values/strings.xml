@@ -6,4 +6,7 @@
     <string name="o">o</string>
     <string name="registrati">Registrati</string>
     <string name="sunspot">SUNSPOT</string>
+    <string name="controlloEmail">Email errata</string>
+    <string name="controlloPassword">Password errata</string>
+    <string name="spot_inseriti">Spot inseriti</string>
 </resources>
