@@ -6,7 +6,6 @@
     <string name="o">o</string>
     <string name="registrati">Registrati</string>
     <string name="sunspot">SUNSPOT</string>
-    <string name="controlloEmail">Email errata</string>
-    <string name="controlloPassword">Password errata</string>
-    <string name="spot_inseriti">Spot inseriti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

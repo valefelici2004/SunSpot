@@ -12,12 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/ThemeOverlay.AppTheme.MediumContrast">
         <activity
-            android:name=".MappaActivity"
-            android:exported="false" />
-        <activity
-            android:name=".InseritiActivity"
-            android:exported="false" />
-        <activity
             android:name=".LoginActivity"
             android:exported="true">
             <intent-filter>
@@ -26,6 +20,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".WelcommeActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
